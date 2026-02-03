@@ -1,5 +1,6 @@
 ## 🌐 Live Demo
-👉 https://YOUR-STREAMLIT-LINK.streamlit.app
+👉 https://attendance-performance-predictor-3sednet6cpsxgtyt6jgwmc.streamlit.app/
+
 # 🎓 Smart Attendance & Academic Performance Predictor
 
 This project uses a Deep Neural Network (PyTorch) to predict a student's academic performance category based on attendance and study-related factors.
